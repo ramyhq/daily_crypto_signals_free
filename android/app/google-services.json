@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824473920253",
+    "project_id": "dailycryptosignalsfree",
+    "storage_bucket": "dailycryptosignalsfree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824473920253:android:b09bfdd43949ac09b69494",
+        "android_client_info": {
+          "package_name": "net.ifeps.daily_crypto_signals_free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824473920253-c5ivacmq61a66rs0k3v9jv7ebq34o1qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBHz7VQXIGbMiEVLKAP7odagTW_pgfOZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824473920253-c5ivacmq61a66rs0k3v9jv7ebq34o1qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
