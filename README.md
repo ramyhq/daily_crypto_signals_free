@@ -1,4 +1,4 @@
-# daily_crypto_signals_free
+# daily_crypto_signals_free (Not Complete)
 
 
 # my skills in this app
